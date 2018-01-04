@@ -1,10 +1,11 @@
 **Proposal: TLR Nigeria 2018**
 ----------------------------------
-**Purpose**: Donate used ambulance to Joseph Ukpo Hospitals & Research Institutes (JUHRI), Ecclesiastical Province of Calabar, Nigeria  
+**Purpose** Donate used ambulance to Joseph Ukpo Hospitals & Research Institutes (JUHRI), Ecclesiastical Province of Calabar, Nigeria  
 **Shipping Route**: From Newark or Bayonne, New Jersey to Tema, Ghana  
 **Method**: RoRo  
 **Cost** ?????  
-**Driving Route**
+
+Driving Route
 -------------
 Countries:
 * Ghana
@@ -18,6 +19,7 @@ Distance: 1, 114 km
 Driving Time: 19 h 35 min (Google, ideal non-stop…time)  
 ![Red Zones](/images/ghana_route.png)
 Route on Maps : [Google Maps](https://www.google.com/maps/dir/Tema+Harbour,+Tema,+Ghana/Akwa+Ibom,+Nigeria/@6.128781,-0.5726417,6.58z/am=t/data=!4m14!4m13!1m5!1m1!1s0x102078b84e1be8eb:0x51be0a7fbca0d94a!2m2!1d0.0166667!2d5.6333333!1m5!1m1!1s0x106813aaebe9c395:0xa912ee4d5df08a81!2m2!1d7.87216!2d4.9299869!3e0)  
+
 Required Documents
 ------------------
 
