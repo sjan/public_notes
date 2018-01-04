@@ -1,11 +1,12 @@
-**Proposal: TLR Nigeria 2018**
-----------------------------------
-**Purpose** Donate used ambulance to Joseph Ukpo Hospitals & Research Institutes (JUHRI), Ecclesiastical Province of Calabar, Nigeria  
-**Shipping Route**: From Newark or Bayonne, New Jersey to Tema, Ghana  
-**Method**: RoRo  
-**Cost** ?????  
+**Proposal TLR Nigeria 2018**
+-----------------------------
 
-Driving Route
+Purpose: Donate used ambulance to Joseph Ukpo Hospitals & Research Institutes (JUHRI), Ecclesiastical Province of Calabar, Nigeria  
+Shipping Route: From Newark or Bayonne, New Jersey to Tema, Ghana  
+Method: RoRo  
+Cost ?????  
+
+**Driving Route**
 -------------
 Countries:
 * Ghana
@@ -22,13 +23,12 @@ Route on Maps : [Google Maps](https://www.google.com/maps/dir/Tema+Harbour,+Tema
 
 Required Documents
 ------------------
-
-*  All Countries: Passport (6 months validity); Vaccination Card (Yellow Fever Vaccine Required); and Tourist Visa Required
-* Vehicle: Temporary Import Permit
-* **Border Crossing**
-* Ghana – Togo: official border crossing point at Aflao
-* Togo—Benin: border crossing point at Hilacondji
-* Benin—Nigeria: border crossing point at Badagry  
+All Countries: Passport (6 months validity); Vaccination Card (Yellow Fever Vaccine Required); and Tourist Visa Required
+Vehicle: Temporary Import Permit
+**Border Crossing**
+Ghana – Togo: official border crossing point at Aflao
+Togo—Benin: border crossing point at Hilacondji
+Benin—Nigeria: border crossing point at Badagry  
 [**Note**: some travel bloggers—via private car and public transportation—suggest to avoid Badagry border crossing point, if possible, as this crossing point tends to be complicated (long waiting time, bribery,…) Bloggers suggest using a smaller border, such as the border “north from Kétou to Meko.”  
 
 Potential Info Sources
