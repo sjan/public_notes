@@ -1,4 +1,4 @@
-** Proposal: TLR Nigeria 2018**
+**Proposal: TLR Nigeria 2018**
 ----------------------------------
 **Purpose**: Donate used ambulance to Joseph Ukpo Hospitals & Research Institutes (JUHRI), Ecclesiastical Province of Calabar, Nigeria  
 **Shipping Route**: From Newark or Bayonne, New Jersey to Tema, Ghana  
