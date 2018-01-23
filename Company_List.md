@@ -12,19 +12,26 @@ BackEnd
 
 Mobile
 ----
-* [Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Engineer--Mobile_JR-22628) Colorado
 * [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Sr-Engineer-Design-Intelligence_55080) Seattle
-* [Microsoft]
-* [Docusign](https://www.docusign.com/company/careers/open?gh_jid=955813) San Francisco
-* [Twitter](https://careers.twitter.com/en/work-for-twitter/software-engineer-android-home.html) San Francisco
+* [Microsoft]()
 * [Niantic](https://www.nianticlabs.com/jobs/mobile-software-engineer/) San Francisco/Seattle/LA
-
+  * applied 1/23
+* [Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Engineer--Mobile_JR-22628) Colorado
+  * applied 1/23
+* [Docusign](https://www.docusign.com/company/careers/open?gh_jid=955813) San Francisco
+  * applied 1/23
+* [Twitter](https://careers.twitter.com/en/work-for-twitter/software-engineer-android-home.html) San Francisco
+  * applied 1/23
 * [nVidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mobile-application-developer_JR1910801) Santa Clara
+  * applied 1/23
 * [AirBnB](https://www.airbnb.com/careers/departments/position/2281) San Francisco
+  * applied 1/23  
 * [Yelp](https://www.yelp.com/careers/job-openings/46136fee-03e6-4766-b6ad-a8b87c0bf9cd?description=Software-Engineer-Mobile-Android_Engineering_San-Francisco-CA) San Francisco
-* [Apple](https://jobs.apple.com/us/search?#specs&ss=Applications%20SW%20Engineer%20-%20Android&t=0&so=&lo=0*USA&pN=0&openJobId=113116562)
-* [Concur](https://jobs.sap.com/job/Bellevue-Senior-Developer-Job-WA-98004/437827601/) Bellvue
-* [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=17001EFR&tz=GMT-05%3A00) Redwood city
+  * applied 1/23
+* [Apple](https://jobs.apple.com/us/search?#specs&ss=Applications%20SW%20Engineer%20-%20Android&t=0&so=&lo=0*USA&pN=0&openJobId=113116562) Santa Clara Valley
+  * applied 1/23
+* *hassle* [Concur](https://jobs.sap.com/job/Bellevue-Senior-Developer-Job-WA-98004/437827601/) Bellvue
+* [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=17001EFR&tz=GMT-05%3A00) Redwood City, CA
 
 NY
 ------
