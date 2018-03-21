@@ -48,3 +48,16 @@ Omit
 
 * ~~Mathworks~~
 * ~~Tableau~~
+
+applied:
+Wink
+Latch
+Uber
+Raise
+Stash
+Microsoft
+theSkimm
+Transferwise
+Roomi
+Foursquare
+ClassPass
