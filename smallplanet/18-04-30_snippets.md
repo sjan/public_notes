@@ -7,6 +7,7 @@ Monday. April 30, 2018
   * Slack
 * Setup Env
   * OpenGrok
+  * Atom
   * Android Studio
 * Meeting with team:
   * Mike Shin: Developer
@@ -23,3 +24,4 @@ Tuesday. May 1, 2018
 ====================
 10:15
 * Standup
+test
