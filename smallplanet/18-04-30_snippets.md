@@ -48,5 +48,27 @@ Wednesday. May 2, 2018
 * Meeting with Mike, Mike, Ji, Fred: Discussed round 2 wireframe, statment of work open ended items, agreed to reveiw wireframe after discussion with client
 * Research
   * Rock the Vote api. extracted api key and partner id to check out Data
+    * so far this year 600 Registrations
+    * this and last year 1000 registrations
   * Created Google Civics api key
-* initial check-in to codebase
+* initial check-in to GitHub codebase
+
+Thursday. May 3, 2018
+=====================
+10:00-6:45
+* Standup
+* Meeting with Mike, Mike, Ji, Fred, VotoLatino: Kickoff meeting to discuss expectations, process and time table
+* Start setting up backend on my aws account.
+  * Lambda Serverless Service
+  * DynamoDb
+  * Simple Email Service
+
+Friday. May 4, 2018
+====================
+* Standup
+* Continue setting up backend on my aws account.
+  * Lambda Serverless Service
+  * DynamoDb
+  * Simple Email Service
+  * deployed at: https://gxue2wcd08.execute-api.us-east-1.amazonaws.com/dev
+  * https://github.com/SmallPlanetiOS/votolatino_VoterPal_Backend
