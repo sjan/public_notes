@@ -23,15 +23,13 @@ Thursday. May 10, 2018
 * Standup
 * VoterPal Registration Flow Review with Julian Mike Taylor Campos Garrett JiYun
 * VoterPal Story Writing Julian Mike Taylor Campos Garrett JiYun
-
-
 * Implement look and feel for concept wire frames
   * On Boarding screens
   * Registration flows: 1/2
 
 Friday. May 11, 2018
 ==============
-9:30-7:00
+* 9:30-7:00
 * Standup
 * SP Credentials Deck with Gavin, Jenny, Anton
 * Implement look and feel for concept wire frames

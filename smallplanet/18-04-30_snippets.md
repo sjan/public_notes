@@ -1,6 +1,6 @@
 Monday. April 30, 2018
 ==============
-10:30-6:10
+* 10:30-6:10
 * Setup with Adrienne
   * MacOs
   * Github Account
@@ -22,7 +22,7 @@ Monday. April 30, 2018
 
 Tuesday. May 1, 2018
 ====================
-10:15-6:20
+* 10:15-6:20
 * Standup
 * Meeting with Mike, Mike, Ji, Fred: wireframe review
 * Research api End Points
@@ -43,7 +43,7 @@ Tuesday. May 1, 2018
 
 Wednesday. May 2, 2018
 ======================
-10:00-6:30
+* 10:00-6:30
 * Standup
 * Meeting with Mike, Mike, Ji, Fred: Discussed round 2 wireframe, statment of work open ended items, agreed to reveiw wireframe after discussion with client
 * Research
@@ -55,7 +55,7 @@ Wednesday. May 2, 2018
 
 Thursday. May 3, 2018
 =====================
-10:00-6:45
+* 10:00-6:45
 * Standup
 * Meeting with Mike, Mike, Ji, Fred, VotoLatino: Kickoff meeting to discuss expectations, process and time table
 * Start setting up backend on my aws account.
