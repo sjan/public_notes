@@ -25,4 +25,8 @@ Wednesday. May 9, 2018
 
 Thursday. May 10, 2018
 =============
-- check out everyaction.com
+* 9:30-5:30
+* work on camera scanner
+  * modal version
+  * embedded versions
+* add some basic tests
